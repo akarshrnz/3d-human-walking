@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+https://github.com/akarshrnz/3d-human-walking/assets/77736922/dd7a0604-2d3a-45ce-ba0b-1d08764888ca
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
